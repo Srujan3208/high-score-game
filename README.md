@@ -49,7 +49,7 @@ high-score-game/
 3. Install the required dependency:
    pip install pyttsx3
 4. Run the application:
-   python game.py
+   game.py
 
 ---
 
