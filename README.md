@@ -35,7 +35,7 @@ This project demonstrates the practical use of core Python concepts such as rand
 ---
 high-score-game/
 │
-├── python game.py # Main application logic
+├── game.py # Main application logic
 ├── hscore.txt # Stores the highest score
 ├── LICENSE # MIT License
 └── README.md # Project documentation
@@ -49,7 +49,7 @@ high-score-game/
 3. Install the required dependency:
    pip install pyttsx3
 4. Run the application:
-   python game.py
+   game.py
 
 ---
 
